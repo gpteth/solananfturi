@@ -1,1 +1,5 @@
-{"name":"NFT #14","description":"This is the description for NFT #14","image":"https://github.com/gpteth/solananfturi/blob/main/14.png","attributes":"Value 14"}
+{
+    "name": "NFT #14",
+    "description": "This is the description for NFT #14",
+    "image": "https://github.com/gpteth/solananfturi/blob/main/14.png"
+}
