@@ -1,0 +1,25 @@
+{
+    "name": "SCGT",
+    "description": "SCGT Collection",
+    "image": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/4.png",
+    "external_url": "https://example.com",
+    "attributes": [
+        {
+            "trait_type": "trait1",
+            "value": "value1"
+        },
+        {
+            "trait_type": "trait2",
+            "value": "value2"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/4.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}

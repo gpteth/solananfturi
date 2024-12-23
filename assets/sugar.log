@@ -1,0 +1,3 @@
+{"v":0,"name":"sugar","msg":"Lend me some sugar, I am your neighbor.","level":30,"hostname":"AlandeMac-mini.local","pid":28154,"time":"2024-12-20T10:38:37.524268Z","target":"sugar","line":124,"file":"src/main.rs"}
+{"v":0,"name":"sugar","msg":"MissingFileError(\"config.json\")","level":50,"hostname":"AlandeMac-mini.local","pid":28154,"time":"2024-12-20T10:38:37.525308Z","target":"sugar_cli::config::parser","line":21,"file":"src/config/parser.rs"}
+{"v":0,"name":"sugar","msg":"Assets directory is missing or empty.","level":30,"hostname":"AlandeMac-mini.local","pid":28154,"time":"2024-12-20T10:42:37.694013Z","target":"sugar_cli::validate::process","line":33,"file":"src/validate/process.rs"}
