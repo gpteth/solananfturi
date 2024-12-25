@@ -17,7 +17,7 @@
     "0": {
       "name": "SCGT",
       "image_hash": "c77bef67bd77b81461d49e3b0b197b7a2fc0506b274929233d4992027b2f6e78",
-      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/0.png",
+      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/assets/0.png",
       "metadata_hash": "0e593420b45edeae5d5e4e1ea46d902dd9a76f595915b7f2d184f4e9c1ea9b6c",
       "metadata_link": "https://tomato-implicit-porpoise-445.mypinata.cloud/ipfs/QmX2s1MvDyJpTFr6dBwaAT8wfmGgwfcHVk7ECCNKRDgoCV/0.json",
       "onChain": true
@@ -25,7 +25,7 @@
     "1": {
       "name": "SCGT",
       "image_hash": "577f3d71aa87eeef8015dcd4f346c64e314112d831888810f44bc80f964a3204",
-      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/1.png",
+      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/assets/1.png",
       "metadata_hash": "abd3f0e156a4b54ec502c9f0e3fae2aae2d6c613d806b7f5580b14712cad5fb1",
       "metadata_link": "https://tomato-implicit-porpoise-445.mypinata.cloud/ipfs/QmNTF59MQZBcCBJF2H9knFM1tWKjGFa9uVAMBDkNH2txAd/1.json",
       "onChain": true
@@ -33,7 +33,7 @@
     "2": {
       "name": "SCGT",
       "image_hash": "a6f644004d31d52145d17b30a25ff2069a6b7f2c7f3a0223b3830acec232df76",
-      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/1.png",
+      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/assets/1.png",
       "metadata_hash": "abd3f0e156a4b54ec502c9f0e3fae2aae2d6c613d806b7f5580b14712cad5fb1",
       "metadata_link": "https://tomato-implicit-porpoise-445.mypinata.cloud/ipfs/QmdxtTt6uzLyLw6ZiQU4FcPuh6p4TW8Q2XNMpSvMadxPXs/2.json",
       "onChain": true
@@ -41,7 +41,7 @@
     "3": {
       "name": "SCGT",
       "image_hash": "33b5b56823e07d8f130bcee2a55ac38d146d0a98424010a1b736f06e0d7f9def",
-      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/2.png",
+      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/assets/2.png",
       "metadata_hash": "eae5d9a598644478138bfd38b65a79d40c8e05dd2ee01a2d76c040df17b2f2c2",
       "metadata_link": "https://tomato-implicit-porpoise-445.mypinata.cloud/ipfs/QmXX86e1gW4A6ra2X9qVPTYnt5fNJPKiPWb4m4bCgjXbjT/3.json",
       "onChain": true
@@ -49,7 +49,7 @@
     "4": {
       "name": "SCGT",
       "image_hash": "27ecde3bee5e5ad19ea0325199c575bc84414ab90646b1d7e182b8c81da994e0",
-      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/3.png",
+      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/assets/3.png",
       "metadata_hash": "b23145ea0eb73fecd0cd38ced761d64023a9f67a48736ff5d5459d1f4f41d23a",
       "metadata_link": "https://tomato-implicit-porpoise-445.mypinata.cloud/ipfs/QmXxtPyM5gxL6en66sEKidr9dATfJ5rYm4UQ6Nx745tppb/4.json",
       "onChain": true
@@ -57,7 +57,7 @@
     "5": {
       "name": "SCGT",
       "image_hash": "f3cf91392b909e1a292aeacb46ba111cd42e1c16742f065c5700d72ac23afc07",
-      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/4.png",
+      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/assets/4.png",
       "metadata_hash": "aa7d120c50aa82202fbd2e57da9a36b8e13e6f54934b41ca1f509403769a6fb2",
       "metadata_link": "https://tomato-implicit-porpoise-445.mypinata.cloud/ipfs/QmSM4ySu2K9922oYWo9WDhnu6D3hQeQZmzmtTpy3ngw3YC/5.json",
       "onChain": true
@@ -65,7 +65,7 @@
     "6": {
       "name": "SCGT",
       "image_hash": "1d49f47114ba8c73544373f164d577714f78c0218fe48d70921ffdf5d573de3f",
-      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/5.png",
+      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/assets/5.png",
       "metadata_hash": "99de9e974642a9fa957e67ff262bb18b1397735a28f53b5ccad45c0c8ee6367d",
       "metadata_link": "https://tomato-implicit-porpoise-445.mypinata.cloud/ipfs/Qmc9osh8oURiQDeXGn2aXZR5ccwAHYH8GJBCTR44kY2RK2/6.json",
       "onChain": true
@@ -73,7 +73,7 @@
     "7": {
       "name": "SCGT",
       "image_hash": "d62beb0e1fd549a294fe0b6c850743fd3691383636aa65c8483f80523070622c",
-      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/6.png",
+      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/assets/6.png",
       "metadata_hash": "413e3c6a6da1f9a46cd72c012fad55cc36c86214782f0f812af226c3a768a7c6",
       "metadata_link": "https://tomato-implicit-porpoise-445.mypinata.cloud/ipfs/QmQgaQYjfyxgNPwbBQdypjaMgAoW5xmVPf1hTCx3w8Y9Ne/7.json",
       "onChain": true
@@ -81,7 +81,7 @@
     "8": {
       "name": "SCGT",
       "image_hash": "03d69601d7fa561dc678302142e7fb0044ffa6f7aaafcdf0d8cd17b52c6228e0",
-      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/7.png",
+      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/assets/7.png",
       "metadata_hash": "a580cd2596768e0e05837b37d55ba25a3f88dc3b0fcb7009f5caa25c08c8fe1d",
       "metadata_link": "https://tomato-implicit-porpoise-445.mypinata.cloud/ipfs/Qmc5gCXsJd4A2xFaHarnZr7ujczvmvPzdTKqBbVZdBQy9s/8.json",
       "onChain": true
@@ -89,7 +89,7 @@
     "9": {
       "name": "SCGT",
       "image_hash": "7bf9acc80859c2cfb779b3dd57699efc9c19a7edc4684b0801a40a8c8a0d5a48",
-      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/8.png",
+      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/assets/8.png",
       "metadata_hash": "be99290530b4c5328b266d938972fa378324ab4a91aac71e6c837a15acbcfe76",
       "metadata_link": "https://tomato-implicit-porpoise-445.mypinata.cloud/ipfs/QmbhiPU2p7c53HXyZv5B2VK3oBnjEgUzQGTNAoS5x1qc2R/9.json",
       "onChain": true
@@ -97,7 +97,7 @@
     "10": {
       "name": "SCGT",
       "image_hash": "5659ad9ffe069ff44f5513f944aea38100877944805a6fb07bed42fada9358cd",
-      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/9.png",
+      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/assets/9.png",
       "metadata_hash": "5244c585d66a865cdd8bb6dd42b1288b1d9123d27d8995f9a817dfc758b3ede6",
       "metadata_link": "https://tomato-implicit-porpoise-445.mypinata.cloud/ipfs/QmZtfa7aFbk1WnsmXd5Y5gF9zLaZxE24JJnJhAnTZNcJr6/10.json",
       "onChain": true
@@ -105,7 +105,7 @@
     "11": {
       "name": "SCGT",
       "image_hash": "8ba346396fc8e9aaddaa6e24ffec38b764d561f45b21ee1f9bc83cff32600a4d",
-      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/10.png",
+      "image_link": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/assets/10.png",
       "metadata_hash": "911b344438f96eceec705f709b6a9dc4c3df86e2bf9615135940902098ae752c",
       "metadata_link": "https://tomato-implicit-porpoise-445.mypinata.cloud/ipfs/QmXbYGhsCNQYVtLUWRaT9B7ZJtL5JJWo6GNz7LhWk9eNNd/11.json",
       "onChain": true

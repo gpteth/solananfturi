@@ -1,8 +1,8 @@
 {
     "name": "SCGT",
     "description": "SCGT Collection",
-    "image": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/2.png",
-    "external_url": "https://example.com",
+    "image": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/assets/2.png",
+    "external_url": "https://solana.com/zh",
     "attributes": [
         {
             "trait_type": "trait1",
@@ -16,7 +16,7 @@
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/2.png",
+                "uri": "https://raw.githubusercontent.com/gpteth/solananfturi/refs/heads/main/assets/2.png",
                 "type": "image/png"
             }
         ],
