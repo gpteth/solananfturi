@@ -5,7 +5,7 @@
     "external_url": "https://solana.com/zh",
     "attributes": [
         {
-            "constellation_type": "Virgo",
+            "trait_type": "Virgo",
             "value": "value1"
         },
         {

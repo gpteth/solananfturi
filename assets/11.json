@@ -5,7 +5,7 @@
     "external_url": "https://solana.com/zh",
     "attributes": [
         {
-            "constellation_type": "Sagittarius",
+            "trait_type": "Sagittarius",
             "value": "value1"
         },
         {

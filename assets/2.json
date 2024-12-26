@@ -5,7 +5,7 @@
     "external_url": "https://solana.com/zh",
     "attributes": [
         {
-            "constellation_type": "Aquarius",
+            "trait_type": "Aquarius",
             "value": "value1"
         },
         {

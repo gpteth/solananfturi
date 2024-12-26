@@ -5,7 +5,7 @@
     "external_url": "https://solana.com/zh",
     "attributes": [
         {
-            "constellation_type": "Capricorn",
+            "trait_type": "Capricorn",
             "value": "value1"
         },
         {

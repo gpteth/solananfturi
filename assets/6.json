@@ -5,7 +5,7 @@
     "external_url": "https://solana.com/zh",
     "attributes": [
         {
-            "constellation_type": "Gemini",
+            "trait_type": "Gemini",
             "value": "value1"
         },
         {
