@@ -5,8 +5,8 @@
     "external_url": "https://solana.com/zh",
     "attributes": [
         {
-            "trait_type": "Taurus",
-            "value": "value1"
+            "trait_type": "constellation",
+            "value": "Taurus"
         },
         {
             "trait_type": "trait2",

@@ -5,8 +5,8 @@
     "external_url": "https://solana.com/zh",
     "attributes": [
         {
-            "trait_type": "Leo",
-            "value": "value1"
+            "trait_type": "constellation",
+            "value": "Leo"
         },
         {
             "trait_type": "trait2",
