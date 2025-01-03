@@ -12,12 +12,12 @@
       "category": "image",
       "creators": [
         {
-          "address": "AwoT7t5FdV9xykFD4Nj2GR1DDLfgZudbjPJEx9EWpvt",
+          "address": "6B527d2QJsJqVT9GXhKpR4Ba3qE7L4qzUDsXqAPzxQgC",
           "share": 100
         }
       ]
     },
     "description": "A Set of SCGT NFT's for the Solana Blockchain",
-    "seller_fee_basis_points": 500,
+    "seller_fee_basis_points": 0,
       "attributes": []
   }
